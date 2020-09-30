@@ -1,4 +1,4 @@
-LifeLine
+LifeLine : An amazing project!
 ========
 
 This project is aimed at developing a GUI based Medical Store management system.
